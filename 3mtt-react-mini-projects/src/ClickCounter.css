@@ -1,0 +1,47 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+
+#display-counter {
+    font-size: 3rem;
+    font-weight: 700;
+    display: block;
+}
+
+#display-error {
+    display: none;
+    color: #EF4444;
+}
+
+button {
+    margin: 20px 10px;
+    padding: 10px;
+    width: 150px;
+    height: 60px;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.green-btn {
+    background-color: #22C55E;
+}
+
+.red-btn {
+    background-color: #EF4444;
+}
+
+.gray-btn {
+    background-color: grey;
+}
+
+.reset-btn {
+    display: none;
+}
