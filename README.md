@@ -1,2 +1,3 @@
-# 3mtt-module2-miniproject1
-Create a "Hello World" React App
+# 3mtt-module2-miniproject2
+
+Create a Click Counter App
