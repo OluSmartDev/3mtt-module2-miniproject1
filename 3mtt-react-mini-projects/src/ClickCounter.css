@@ -12,11 +12,10 @@
 #display-counter {
     font-size: 3rem;
     font-weight: 700;
-    display: block;
 }
 
-#display-error {
-    display: none;
+.display-error {
+    font-size: 1.2rem;
     color: #EF4444;
 }
 
@@ -40,8 +39,4 @@ button {
 
 .gray-btn {
     background-color: grey;
-}
-
-.reset-btn {
-    display: none;
 }
