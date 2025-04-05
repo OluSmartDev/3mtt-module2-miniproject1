@@ -1,3 +1,3 @@
-# 3mtt-module2-miniproject2
+# 3mtt-module2-miniproject3
 
-Create a Click Counter App
+Create a Fetch API Data  App
